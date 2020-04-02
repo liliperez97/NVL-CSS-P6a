@@ -1,0 +1,25 @@
+<TR>
+ <TD id="1"> 1 </TD> <TD> Talco </TD> 
+ <TD id="2"> 2 </TD> <TD> Yeso </TD> 
+ <TD id="3"> 3 </TD> <TD> Calcita </TD> 
+ <TD id="4"> 4 </TD> <TD> Fluoita </TD> 
+ <TD id="5"> 5 </TD> <TD> Apatito </TD> 
+ <TD id="6"> 6 </TD> <TD> Ortosa </TD> 
+ <TD id="7"> 7 </TD> <TD> Cuarzo </TD> 
+ <TD id="8"> 8 </TD> <TD> Topacio </TD> 
+ <TD id="9"> 9 </TD> <TD> Corindon </TD> 
+ <TD id="10"> 10 </TD> <TD> Diamante </TD>
+</TR>
+
+<style>
+#1 {background-color: #f9f9f9}
+#2 {background-color: #eeeeef}
+#3 {background-color: #d2d1d2}
+#4 {background-color:#bebfbf}
+#5 {background-color:#8b8b8b}
+#6 {background-color:#7c7c7c}
+#7 {background-color:#6c6c6c}
+#8 {background-color:#595959}
+#9 {background-color:#363636}
+#10 {background-color:#141414}
+</style>
